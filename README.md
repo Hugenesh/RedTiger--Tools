@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="Images/RedTiger-Logo.png" alt="RedTiger-Logo" width="27">
-  RedTiger-Tools (v2)
+  RedTiger+-Tools (v1)
 </h1>
 
 <p align="center">
